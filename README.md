@@ -1,6 +1,11 @@
 # 30daysofMLKaggle
 My journey through 30 days of ML using Kaggle
 
+[Complete Outline](https://docs.google.com/document/d/e/2PACX-1vQhaDl5NbzMvPNKz3ipu3SuDBv8hI0XmFPSMyDm8mUa0xP07niK6zU3MziTOifSEkddXTiafppeZZYz/pub)
+[Abhishek Thakur Videos](https://youtube.com/watch?v=_55G24aghPY)
+
+
+
 ## Day 1:
 
 - [x] Follow the instructions in this [notebook](https://www.kaggle.com/alexisbcook/getting-started-with-kaggle) to get started with Kaggle
@@ -15,14 +20,14 @@ My journey through 30 days of ML using Kaggle
 ## Day 3
 
 
-- [] Read this [tutorial](https://www.kaggle.com/colinmorris/functions-and-getting-help) (from Lesson 2 of the Python course)
-- [] Complete this [exercise](https://www.kaggle.com/snehilsanyal/exercise-functions-and-getting-help/edit) (from Lesson 2 of the Python course)
+- [ ] Read this [tutorial](https://www.kaggle.com/colinmorris/functions-and-getting-help) (from Lesson 2 of the Python course)
+- [ ] Complete this [exercise](https://www.kaggle.com/snehilsanyal/exercise-functions-and-getting-help/edit) (from Lesson 2 of the Python course)
 
 ## Day 4
 
 
-- [] Read this tutorial (from Lesson 3 of the Python course)
-- [] Complete this exercise (from Lesson 3 of the Python course)
+- [ ] Read this tutorial (from Lesson 3 of the Python course)
+- [ ] Complete this exercise (from Lesson 3 of the Python course)
 
 ## Day 5
 
