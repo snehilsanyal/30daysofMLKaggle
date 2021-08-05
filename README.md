@@ -14,8 +14,8 @@ My journey through 30 days of ML using Kaggle
 ## Day 2
 
 
-- [] Read this [tutorial](https://www.kaggle.com/colinmorris/hello-python) (from Lesson 1 of the Python course)
-- [] Complete this [exercise](https://www.kaggle.com/snehilsanyal/exercise-syntax-variables-and-numbers/edit) (from Lesson 1 of the Python course)
+- [ ] Read this [tutorial](https://www.kaggle.com/colinmorris/hello-python) (from Lesson 1 of the Python course)
+- [ ] Complete this [exercise](https://www.kaggle.com/snehilsanyal/exercise-syntax-variables-and-numbers/edit) (from Lesson 1 of the Python course)
 
 ## Day 3
 
